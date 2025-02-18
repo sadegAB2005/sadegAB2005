@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am ERPs Developer<br>now learning Flutter Development<br>Ask me about python
+I am ERPs Developer and Flutter Developer<br>Ask me about python
 
 
 ## 🌐 Socials:
